@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "test-next-js",
   "repository": {
     "type": "git",
     "url": "https://github.com/etiennejcharles/test-next-js.git"
